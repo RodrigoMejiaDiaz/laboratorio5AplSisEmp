@@ -1,0 +1,296 @@
+ProductName,Category
+"Mountain-100 Silver, 38",Mountain Bikes
+"Mountain-100 Silver, 42",Mountain Bikes
+"Mountain-100 Silver, 44",Mountain Bikes
+"Mountain-100 Silver, 48",Mountain Bikes
+"Mountain-100 Black, 38",Mountain Bikes
+"Mountain-100 Black, 42",Mountain Bikes
+"Mountain-100 Black, 44",Mountain Bikes
+"Mountain-100 Black, 48",Mountain Bikes
+"Mountain-200 Silver, 38",Mountain Bikes
+"Mountain-200 Silver, 42",Mountain Bikes
+"Mountain-200 Silver, 46",Mountain Bikes
+"Mountain-200 Black, 38",Mountain Bikes
+"Mountain-200 Black, 42",Mountain Bikes
+"Mountain-200 Black, 46",Mountain Bikes
+"Mountain-300 Black, 38",Mountain Bikes
+"Mountain-300 Black, 40",Mountain Bikes
+"Mountain-300 Black, 44",Mountain Bikes
+"Mountain-300 Black, 48",Mountain Bikes
+"Mountain-400-W Silver, 38",Mountain Bikes
+"Mountain-400-W Silver, 40",Mountain Bikes
+"Mountain-400-W Silver, 42",Mountain Bikes
+"Mountain-400-W Silver, 46",Mountain Bikes
+"Mountain-500 Silver, 40",Mountain Bikes
+"Mountain-500 Silver, 42",Mountain Bikes
+"Mountain-500 Silver, 44",Mountain Bikes
+"Mountain-500 Silver, 48",Mountain Bikes
+"Mountain-500 Silver, 52",Mountain Bikes
+"Mountain-500 Black, 40",Mountain Bikes
+"Mountain-500 Black, 42",Mountain Bikes
+"Mountain-500 Black, 44",Mountain Bikes
+"Mountain-500 Black, 48",Mountain Bikes
+"Mountain-500 Black, 52",Mountain Bikes
+"Road-350-W Yellow, 40",Road Bikes
+"Road-350-W Yellow, 42",Road Bikes
+"Road-350-W Yellow, 44",Road Bikes
+"Road-350-W Yellow, 48",Road Bikes
+"Road-750 Black, 58",Road Bikes
+"Road-750 Black, 44",Road Bikes
+"Road-750 Black, 48",Road Bikes
+"Road-750 Black, 52",Road Bikes
+"Road-250 Red, 44",Road Bikes
+"Road-250 Red, 48",Road Bikes
+"Road-250 Red, 52",Road Bikes
+"Road-250 Red, 58",Road Bikes
+"Road-250 Black, 44",Road Bikes
+"Road-250 Black, 48",Road Bikes
+"Road-250 Black, 52",Road Bikes
+"Road-250 Black, 58",Road Bikes
+"Road-550-W Yellow, 38",Road Bikes
+"Road-550-W Yellow, 40",Road Bikes
+"Road-550-W Yellow, 42",Road Bikes
+"Road-550-W Yellow, 44",Road Bikes
+"Road-550-W Yellow, 48",Road Bikes
+"Road-150 Red, 62",Road Bikes
+"Road-150 Red, 44",Road Bikes
+"Road-150 Red, 48",Road Bikes
+"Road-150 Red, 52",Road Bikes
+"Road-150 Red, 56",Road Bikes
+"Road-450 Red, 58",Road Bikes
+"Road-450 Red, 60",Road Bikes
+"Road-450 Red, 44",Road Bikes
+"Road-450 Red, 48",Road Bikes
+"Road-450 Red, 52",Road Bikes
+"Road-650 Red, 58",Road Bikes
+"Road-650 Red, 60",Road Bikes
+"Road-650 Red, 62",Road Bikes
+"Road-650 Red, 44",Road Bikes
+"Road-650 Red, 48",Road Bikes
+"Road-650 Red, 52",Road Bikes
+"Road-650 Black, 58",Road Bikes
+"Road-650 Black, 60",Road Bikes
+"Road-650 Black, 62",Road Bikes
+"Road-650 Black, 44",Road Bikes
+"Road-650 Black, 48",Road Bikes
+"Road-650 Black, 52",Road Bikes
+"Touring-3000 Blue, 44",Touring Bikes
+"Touring-3000 Blue, 50",Touring Bikes
+"Touring-2000 Blue, 60",Touring Bikes
+"Touring-1000 Yellow, 46",Touring Bikes
+"Touring-1000 Yellow, 50",Touring Bikes
+"Touring-1000 Yellow, 54",Touring Bikes
+"Touring-1000 Yellow, 60",Touring Bikes
+"Touring-3000 Blue, 54",Touring Bikes
+"Touring-3000 Blue, 58",Touring Bikes
+"Touring-3000 Blue, 62",Touring Bikes
+"Touring-3000 Yellow, 44",Touring Bikes
+"Touring-3000 Yellow, 50",Touring Bikes
+"Touring-3000 Yellow, 54",Touring Bikes
+"Touring-3000 Yellow, 58",Touring Bikes
+"Touring-3000 Yellow, 62",Touring Bikes
+"Touring-1000 Blue, 46",Touring Bikes
+"Touring-1000 Blue, 50",Touring Bikes
+"Touring-1000 Blue, 54",Touring Bikes
+"Touring-1000 Blue, 60",Touring Bikes
+"Touring-2000 Blue, 46",Touring Bikes
+"Touring-2000 Blue, 50",Touring Bikes
+"Touring-2000 Blue, 54",Touring Bikes
+LL Touring Handlebars,Handlebars
+HL Touring Handlebars,Handlebars
+LL Mountain Handlebars,Handlebars
+ML Mountain Handlebars,Handlebars
+HL Mountain Handlebars,Handlebars
+LL Road Handlebars,Handlebars
+ML Road Handlebars,Handlebars
+HL Road Handlebars,Handlebars
+LL Bottom Bracket,Bottom Brackets
+ML Bottom Bracket,Bottom Brackets
+HL Bottom Bracket,Bottom Brackets
+Front Brakes,Brakes
+Rear Brakes,Brakes
+Chain,Chains
+LL Crankset,Cranksets
+ML Crankset,Cranksets
+HL Crankset,Cranksets
+Front Derailleur,Derailleurs
+Rear Derailleur,Derailleurs
+LL Fork,Forks
+ML Fork,Forks
+HL Fork,Forks
+LL Headset,Headsets
+ML Headset,Headsets
+HL Headset,Headsets
+"HL Mountain Frame - Silver, 42",Mountain Frames
+"HL Mountain Frame - Silver, 44",Mountain Frames
+"HL Mountain Frame - Silver, 48",Mountain Frames
+"HL Mountain Frame - Silver, 46",Mountain Frames
+"HL Mountain Frame - Black, 42",Mountain Frames
+"HL Mountain Frame - Black, 44",Mountain Frames
+"HL Mountain Frame - Black, 48",Mountain Frames
+"HL Mountain Frame - Black, 46",Mountain Frames
+"HL Mountain Frame - Black, 38",Mountain Frames
+"HL Mountain Frame - Silver, 38",Mountain Frames
+"ML Mountain Frame - Black, 38",Mountain Frames
+"ML Mountain Frame - Black, 40",Mountain Frames
+"ML Mountain Frame - Black, 44",Mountain Frames
+"ML Mountain Frame - Black, 48",Mountain Frames
+"LL Mountain Frame - Black, 42",Mountain Frames
+"LL Mountain Frame - Black, 44",Mountain Frames
+"LL Mountain Frame - Black, 48",Mountain Frames
+"LL Mountain Frame - Black, 52",Mountain Frames
+"LL Mountain Frame - Silver, 42",Mountain Frames
+"LL Mountain Frame - Silver, 44",Mountain Frames
+"LL Mountain Frame - Silver, 48",Mountain Frames
+"LL Mountain Frame - Silver, 52",Mountain Frames
+"ML Mountain Frame-W - Silver, 40",Mountain Frames
+"ML Mountain Frame-W - Silver, 42",Mountain Frames
+"ML Mountain Frame-W - Silver, 46",Mountain Frames
+"ML Mountain Frame-W - Silver, 38",Mountain Frames
+"LL Mountain Frame - Black, 40",Mountain Frames
+"LL Mountain Frame - Silver, 40",Mountain Frames
+LL Mountain Pedal,Pedals
+ML Mountain Pedal,Pedals
+HL Mountain Pedal,Pedals
+LL Road Pedal,Pedals
+ML Road Pedal,Pedals
+HL Road Pedal,Pedals
+Touring Pedal,Pedals
+"ML Road Frame-W - Yellow, 40",Road Frames
+"ML Road Frame-W - Yellow, 42",Road Frames
+"ML Road Frame-W - Yellow, 44",Road Frames
+"ML Road Frame-W - Yellow, 48",Road Frames
+"HL Road Frame - Black, 62",Road Frames
+"HL Road Frame - Black, 44",Road Frames
+"HL Road Frame - Black, 48",Road Frames
+"HL Road Frame - Black, 52",Road Frames
+"ML Road Frame-W - Yellow, 38",Road Frames
+"HL Road Frame - Black, 58",Road Frames
+"HL Road Frame - Red, 58",Road Frames
+"HL Road Frame - Red, 62",Road Frames
+"HL Road Frame - Red, 44",Road Frames
+"HL Road Frame - Red, 48",Road Frames
+"HL Road Frame - Red, 52",Road Frames
+"HL Road Frame - Red, 56",Road Frames
+"LL Road Frame - Black, 58",Road Frames
+"LL Road Frame - Black, 60",Road Frames
+"LL Road Frame - Black, 62",Road Frames
+"LL Road Frame - Red, 44",Road Frames
+"LL Road Frame - Red, 48",Road Frames
+"LL Road Frame - Red, 52",Road Frames
+"LL Road Frame - Red, 58",Road Frames
+"LL Road Frame - Red, 60",Road Frames
+"LL Road Frame - Red, 62",Road Frames
+"ML Road Frame - Red, 44",Road Frames
+"ML Road Frame - Red, 48",Road Frames
+"ML Road Frame - Red, 52",Road Frames
+"ML Road Frame - Red, 58",Road Frames
+"ML Road Frame - Red, 60",Road Frames
+"LL Road Frame - Black, 44",Road Frames
+"LL Road Frame - Black, 48",Road Frames
+"LL Road Frame - Black, 52",Road Frames
+LL Mountain Seat/Saddle,Saddles
+ML Mountain Seat/Saddle,Saddles
+HL Mountain Seat/Saddle,Saddles
+LL Road Seat/Saddle,Saddles
+ML Road Seat/Saddle,Saddles
+HL Road Seat/Saddle,Saddles
+LL Touring Seat/Saddle,Saddles
+ML Touring Seat/Saddle,Saddles
+HL Touring Seat/Saddle,Saddles
+"LL Touring Frame - Blue, 50",Touring Frames
+"LL Touring Frame - Blue, 54",Touring Frames
+"LL Touring Frame - Blue, 58",Touring Frames
+"LL Touring Frame - Blue, 62",Touring Frames
+"LL Touring Frame - Yellow, 44",Touring Frames
+"LL Touring Frame - Yellow, 50",Touring Frames
+"LL Touring Frame - Yellow, 54",Touring Frames
+"LL Touring Frame - Yellow, 58",Touring Frames
+"LL Touring Frame - Blue, 44",Touring Frames
+"HL Touring Frame - Yellow, 60",Touring Frames
+"LL Touring Frame - Yellow, 62",Touring Frames
+"HL Touring Frame - Yellow, 46",Touring Frames
+"HL Touring Frame - Yellow, 50",Touring Frames
+"HL Touring Frame - Yellow, 54",Touring Frames
+"HL Touring Frame - Blue, 46",Touring Frames
+"HL Touring Frame - Blue, 50",Touring Frames
+"HL Touring Frame - Blue, 54",Touring Frames
+"HL Touring Frame - Blue, 60",Touring Frames
+LL Mountain Rear Wheel,Wheels
+ML Mountain Rear Wheel,Wheels
+HL Mountain Rear Wheel,Wheels
+LL Road Rear Wheel,Wheels
+ML Road Rear Wheel,Wheels
+HL Road Rear Wheel,Wheels
+Touring Rear Wheel,Wheels
+LL Mountain Front Wheel,Wheels
+ML Mountain Front Wheel,Wheels
+HL Mountain Front Wheel,Wheels
+LL Road Front Wheel,Wheels
+ML Road Front Wheel,Wheels
+HL Road Front Wheel,Wheels
+Touring Front Wheel,Wheels
+"Men's Bib-Shorts, S",Bib-Shorts
+"Men's Bib-Shorts, M",Bib-Shorts
+"Men's Bib-Shorts, L",Bib-Shorts
+AWC Logo Cap,Caps
+"Half-Finger Gloves, S",Gloves
+"Half-Finger Gloves, M",Gloves
+"Half-Finger Gloves, L",Gloves
+"Full-Finger Gloves, S",Gloves
+"Full-Finger Gloves, M",Gloves
+"Full-Finger Gloves, L",Gloves
+"Long-Sleeve Logo Jersey, S",Jerseys
+"Long-Sleeve Logo Jersey, M",Jerseys
+"Long-Sleeve Logo Jersey, L",Jerseys
+"Long-Sleeve Logo Jersey, XL",Jerseys
+"Short-Sleeve Classic Jersey, S",Jerseys
+"Short-Sleeve Classic Jersey, M",Jerseys
+"Short-Sleeve Classic Jersey, L",Jerseys
+"Short-Sleeve Classic Jersey, XL",Jerseys
+"Women's Mountain Shorts, S",Shorts
+"Women's Mountain Shorts, M",Shorts
+"Women's Mountain Shorts, L",Shorts
+"Men's Sports Shorts, S",Shorts
+"Men's Sports Shorts, M",Shorts
+"Men's Sports Shorts, L",Shorts
+"Men's Sports Shorts, XL",Shorts
+"Mountain Bike Socks, M",Socks
+"Mountain Bike Socks, L",Socks
+"Racing Socks, M",Socks
+"Racing Socks, L",Socks
+"Women's Tights, S",Tights
+"Women's Tights, M",Tights
+"Women's Tights, L",Tights
+"Classic Vest, S",Vests
+"Classic Vest, M",Vests
+"Classic Vest, L",Vests
+Hitch Rack - 4-Bike,Bike Racks
+All-Purpose Bike Stand,Bike Stands
+Water Bottle - 30 oz.,Bottles and Cages
+Mountain Bottle Cage,Bottles and Cages
+Road Bottle Cage,Bottles and Cages
+Bike Wash - Dissolver,Cleaners
+Fender Set - Mountain,Fenders
+"Sport-100 Helmet, Blue",Helmets
+"Sport-100 Helmet, Red",Helmets
+"Sport-100 Helmet, Black",Helmets
+Hydration Pack - 70 oz.,Hydration Packs
+Taillights - Battery-Powered,Lights
+Headlights - Dual-Beam,Lights
+Headlights - Weatherproof,Lights
+Cable Lock,Locks
+"Touring-Panniers, Large",Panniers
+Minipump,Pumps
+Mountain Pump,Pumps
+Patch Kit/8 Patches,Tires and Tubes
+Mountain Tire Tube,Tires and Tubes
+Road Tire Tube,Tires and Tubes
+Touring Tire Tube,Tires and Tubes
+LL Mountain Tire,Tires and Tubes
+ML Mountain Tire,Tires and Tubes
+HL Mountain Tire,Tires and Tubes
+LL Road Tire,Tires and Tubes
+ML Road Tire,Tires and Tubes
+HL Road Tire,Tires and Tubes
+Touring Tire,Tires and Tubes

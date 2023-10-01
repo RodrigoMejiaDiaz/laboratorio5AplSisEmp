@@ -1,0 +1,196 @@
+CustomerID,CompanyName,Category,Quantity
+29485,Professional Sales and Service,Bike Racks,3
+29485,Professional Sales and Service,Bottles and Cages,6
+29485,Professional Sales and Service,Bottom Brackets,5
+29485,Professional Sales and Service,Brakes,1
+29485,Professional Sales and Service,Caps,10
+29485,Professional Sales and Service,Cleaners,10
+29485,Professional Sales and Service,Saddles,1
+29485,Professional Sales and Service,Touring Bikes,31
+29485,Professional Sales and Service,Touring Frames,5
+29485,Professional Sales and Service,Vests,10
+29485,Professional Sales and Service,Cranksets,2
+29485,Professional Sales and Service,Derailleurs,5
+29485,Professional Sales and Service,Gloves,1
+29485,Professional Sales and Service,Helmets,16
+29485,Professional Sales and Service,Hydration Packs,9
+29485,Professional Sales and Service,Jerseys,25
+29531,Remarkable Bike Store,Pedals,1
+29531,Remarkable Bike Store,Road Bikes,6
+29531,Remarkable Bike Store,Socks,16
+29546,Bulk Discount Store,Bike Racks,3
+29546,Bulk Discount Store,Bottles and Cages,8
+29546,Bulk Discount Store,Caps,1
+29546,Bulk Discount Store,Cleaners,6
+29546,Bulk Discount Store,Gloves,2
+29546,Bulk Discount Store,Handlebars,1
+29546,Bulk Discount Store,Socks,6
+29546,Bulk Discount Store,Vests,9
+29546,Bulk Discount Store,Helmets,11
+29546,Bulk Discount Store,Hydration Packs,7
+29546,Bulk Discount Store,Jerseys,14
+29546,Bulk Discount Store,Pedals,16
+29546,Bulk Discount Store,Road Bikes,78
+29546,Bulk Discount Store,Road Frames,5
+29568,Coalition Bike Company,Handlebars,1
+29568,Coalition Bike Company,Jerseys,4
+29568,Coalition Bike Company,Mountain Bikes,2
+29568,Coalition Bike Company,Mountain Frames,3
+29568,Coalition Bike Company,Pedals,1
+29584,Futuristic Bikes,Jerseys,2
+29584,Futuristic Bikes,Saddles,2
+29584,Futuristic Bikes,Vests,3
+29612,Channel Outlet,Bike Racks,3
+29612,Channel Outlet,Jerseys,6
+29612,Channel Outlet,Vests,3
+29638,Aerobic Exercise Company,Pedals,8
+29638,Aerobic Exercise Company,Road Frames,5
+29644,Vigorous Sports Store,Road Frames,1
+29653,Thrilling Bike Tours,Brakes,2
+29653,Thrilling Bike Tours,Caps,3
+29653,Thrilling Bike Tours,Chains,1
+29653,Thrilling Bike Tours,Cleaners,1
+29653,Thrilling Bike Tours,Derailleurs,1
+29653,Thrilling Bike Tours,Jerseys,4
+29653,Thrilling Bike Tours,Touring Bikes,15
+29660,Extreme Riding Supplies,Handlebars,1
+29660,Extreme Riding Supplies,Saddles,1
+29660,Extreme Riding Supplies,Touring Bikes,46
+29660,Extreme Riding Supplies,Touring Frames,12
+29736,Action Bicycle Specialists,Bike Racks,6
+29736,Action Bicycle Specialists,Bottles and Cages,11
+29736,Action Bicycle Specialists,Caps,10
+29736,Action Bicycle Specialists,Cleaners,8
+29736,Action Bicycle Specialists,Gloves,11
+29736,Action Bicycle Specialists,Helmets,24
+29736,Action Bicycle Specialists,Vests,31
+29736,Action Bicycle Specialists,Hydration Packs,9
+29736,Action Bicycle Specialists,Jerseys,38
+29736,Action Bicycle Specialists,Saddles,2
+29736,Action Bicycle Specialists,Tires and Tubes,8
+29736,Action Bicycle Specialists,Touring Bikes,88
+29736,Action Bicycle Specialists,Touring Frames,21
+29741,Central Bicycle Specialists,Saddles,1
+29781,The Bicycle Accessories Company,Bottles and Cages,1
+29781,The Bicycle Accessories Company,Socks,18
+29796,Riding Cycles,Bike Racks,10
+29796,Riding Cycles,Bottles and Cages,11
+29796,Riding Cycles,Caps,6
+29796,Riding Cycles,Cleaners,17
+29796,Riding Cycles,Gloves,17
+29796,Riding Cycles,Handlebars,2
+29796,Riding Cycles,Saddles,2
+29796,Riding Cycles,Socks,3
+29796,Riding Cycles,Tires and Tubes,6
+29796,Riding Cycles,Vests,24
+29796,Riding Cycles,Helmets,22
+29796,Riding Cycles,Hydration Packs,10
+29796,Riding Cycles,Jerseys,49
+29796,Riding Cycles,Pedals,11
+29796,Riding Cycles,Road Bikes,61
+29796,Riding Cycles,Road Frames,20
+29847,Good Toys,Road Frames,2
+29877,Paints and Solvents Company,Brakes,1
+29877,Paints and Solvents Company,Caps,4
+29877,Paints and Solvents Company,Jerseys,3
+29877,Paints and Solvents Company,Touring Bikes,10
+29877,Paints and Solvents Company,Vests,1
+29922,Closest Bicycle Store,Handlebars,3
+29922,Closest Bicycle Store,Mountain Bikes,26
+29922,Closest Bicycle Store,Mountain Frames,26
+29922,Closest Bicycle Store,Pedals,5
+29922,Closest Bicycle Store,Saddles,2
+29922,Closest Bicycle Store,Shorts,14
+29929,Many Bikes Store,Bike Racks,4
+29929,Many Bikes Store,Bottles and Cages,7
+29929,Many Bikes Store,Caps,3
+29929,Many Bikes Store,Cleaners,5
+29929,Many Bikes Store,Gloves,2
+29929,Many Bikes Store,Handlebars,3
+29929,Many Bikes Store,Saddles,3
+29929,Many Bikes Store,Shorts,14
+29929,Many Bikes Store,Vests,12
+29929,Many Bikes Store,Helmets,13
+29929,Many Bikes Store,Hydration Packs,5
+29929,Many Bikes Store,Jerseys,18
+29929,Many Bikes Store,Mountain Bikes,62
+29929,Many Bikes Store,Mountain Frames,15
+29929,Many Bikes Store,Pedals,7
+29932,Instruments and Parts Company,Bottom Brackets,7
+29932,Instruments and Parts Company,Brakes,1
+29932,Instruments and Parts Company,Chains,1
+29932,Instruments and Parts Company,Cranksets,7
+29932,Instruments and Parts Company,Derailleurs,3
+29932,Instruments and Parts Company,Saddles,3
+29932,Instruments and Parts Company,Touring Bikes,58
+29932,Instruments and Parts Company,Touring Frames,1
+29938,Trailblazing Sports,Bottom Brackets,3
+29938,Trailblazing Sports,Brakes,2
+29938,Trailblazing Sports,Chains,3
+29938,Trailblazing Sports,Cranksets,4
+29938,Trailblazing Sports,Derailleurs,1
+29938,Trailblazing Sports,Handlebars,2
+29938,Trailblazing Sports,Jerseys,2
+29938,Trailblazing Sports,Mountain Bikes,18
+29938,Trailblazing Sports,Mountain Frames,25
+29938,Trailblazing Sports,Pedals,2
+29938,Trailblazing Sports,Saddles,10
+29938,Trailblazing Sports,Shorts,5
+29957,Eastside Department Store,Bike Racks,2
+29957,Eastside Department Store,Bottles and Cages,10
+29957,Eastside Department Store,Caps,11
+29957,Eastside Department Store,Cleaners,8
+29957,Eastside Department Store,Gloves,18
+29957,Eastside Department Store,Handlebars,1
+29957,Eastside Department Store,Socks,1
+29957,Eastside Department Store,Tires and Tubes,6
+29957,Eastside Department Store,Vests,25
+29957,Eastside Department Store,Helmets,36
+29957,Eastside Department Store,Hydration Packs,9
+29957,Eastside Department Store,Jerseys,53
+29957,Eastside Department Store,Pedals,13
+29957,Eastside Department Store,Road Bikes,69
+29957,Eastside Department Store,Road Frames,24
+29975,Sports Products Store,Helmets,1
+29975,Sports Products Store,Pedals,2
+29975,Sports Products Store,Road Bikes,6
+29975,Sports Products Store,Socks,13
+29982,Discount Tours,Bike Racks,1
+29982,Discount Tours,Jerseys,7
+29982,Discount Tours,Pedals,3
+29982,Discount Tours,Road Bikes,2
+29982,Discount Tours,Vests,3
+30019,Tachometers and Accessories,Mountain Bikes,1
+30019,Tachometers and Accessories,Shorts,8
+30025,Essential Bike Works,Socks,7
+30027,Engineered Bike Systems,Brakes,1
+30027,Engineered Bike Systems,Caps,4
+30027,Engineered Bike Systems,Jerseys,5
+30027,Engineered Bike Systems,Touring Bikes,3
+30033,Transport Bikes,Derailleurs,1
+30033,Transport Bikes,Touring Bikes,1
+30050,Metropolitan Bicycle Supply,Bottom Brackets,7
+30050,Metropolitan Bicycle Supply,Brakes,4
+30050,Metropolitan Bicycle Supply,Chains,3
+30050,Metropolitan Bicycle Supply,Cranksets,9
+30050,Metropolitan Bicycle Supply,Derailleurs,10
+30050,Metropolitan Bicycle Supply,Gloves,6
+30050,Metropolitan Bicycle Supply,Shorts,26
+30050,Metropolitan Bicycle Supply,Handlebars,9
+30050,Metropolitan Bicycle Supply,Helmets,1
+30050,Metropolitan Bicycle Supply,Mountain Bikes,53
+30050,Metropolitan Bicycle Supply,Mountain Frames,47
+30050,Metropolitan Bicycle Supply,Pedals,10
+30050,Metropolitan Bicycle Supply,Saddles,12
+30072,West Side Mart,Brakes,1
+30089,Thrifty Parts and Sales,Road Frames,3
+30089,Thrifty Parts and Sales,Socks,2
+30102,Sports Store,Mountain Bikes,3
+30102,Sports Store,Mountain Frames,1
+30102,Sports Store,Pedals,2
+30113,Nearby Cycle Shop,Handlebars,4
+30113,Nearby Cycle Shop,Hydration Packs,1
+30113,Nearby Cycle Shop,Mountain Bikes,44
+30113,Nearby Cycle Shop,Mountain Frames,11
+30113,Nearby Cycle Shop,Pedals,3
+30113,Nearby Cycle Shop,Shorts,13

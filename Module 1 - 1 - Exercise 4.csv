@@ -1,0 +1,296 @@
+ProductNumber,Color,Size,ProductDetails
+FR-R92B-58,Black,58,"Black, 58"
+FR-R92R-58,Red,58,"Red, 58"
+HL-U509-R,Red,NULL,NULL
+HL-U509,Black,NULL,NULL
+SO-B909-M,White,M,"White, M"
+SO-B909-L,White,L,"White, L"
+HL-U509-B,Blue,NULL,NULL
+CA-1098,Multi,NULL,NULL
+LJ-0192-S,Multi,S,"Multi, S"
+LJ-0192-M,Multi,M,"Multi, M"
+LJ-0192-L,Multi,L,"Multi, L"
+LJ-0192-X,Multi,XL,"Multi, XL"
+FR-R92R-62,Red,62,"Red, 62"
+FR-R92R-44,Red,44,"Red, 44"
+FR-R92R-48,Red,48,"Red, 48"
+FR-R92R-52,Red,52,"Red, 52"
+FR-R92R-56,Red,56,"Red, 56"
+FR-R38B-58,Black,58,"Black, 58"
+FR-R38B-60,Black,60,"Black, 60"
+FR-R38B-62,Black,62,"Black, 62"
+FR-R38R-44,Red,44,"Red, 44"
+FR-R38R-48,Red,48,"Red, 48"
+FR-R38R-52,Red,52,"Red, 52"
+FR-R38R-58,Red,58,"Red, 58"
+FR-R38R-60,Red,60,"Red, 60"
+FR-R38R-62,Red,62,"Red, 62"
+FR-R72R-44,Red,44,"Red, 44"
+FR-R72R-48,Red,48,"Red, 48"
+FR-R72R-52,Red,52,"Red, 52"
+FR-R72R-58,Red,58,"Red, 58"
+FR-R72R-60,Red,60,"Red, 60"
+FR-R38B-44,Black,44,"Black, 44"
+FR-R38B-48,Black,48,"Black, 48"
+FR-R38B-52,Black,52,"Black, 52"
+FR-M94S-42,Silver,42,"Silver, 42"
+FR-M94S-44,Silver,44,"Silver, 44"
+FR-M94S-52,Silver,48,"Silver, 48"
+FR-M94S-46,Silver,46,"Silver, 46"
+FR-M94B-42,Black,42,"Black, 42"
+FR-M94B-44,Black,44,"Black, 44"
+FR-M94B-48,Black,48,"Black, 48"
+FR-M94B-46,Black,46,"Black, 46"
+FR-M94B-38,Black,38,"Black, 38"
+FR-M94S-38,Silver,38,"Silver, 38"
+BK-R93R-62,Red,62,"Red, 62"
+BK-R93R-44,Red,44,"Red, 44"
+BK-R93R-48,Red,48,"Red, 48"
+BK-R93R-52,Red,52,"Red, 52"
+BK-R93R-56,Red,56,"Red, 56"
+BK-R68R-58,Red,58,"Red, 58"
+BK-R68R-60,Red,60,"Red, 60"
+BK-R68R-44,Red,44,"Red, 44"
+BK-R68R-48,Red,48,"Red, 48"
+BK-R68R-52,Red,52,"Red, 52"
+BK-R50R-58,Red,58,"Red, 58"
+BK-R50R-60,Red,60,"Red, 60"
+BK-R50R-62,Red,62,"Red, 62"
+BK-R50R-44,Red,44,"Red, 44"
+BK-R50R-48,Red,48,"Red, 48"
+BK-R50R-52,Red,52,"Red, 52"
+BK-R50B-58,Black,58,"Black, 58"
+BK-R50B-60,Black,60,"Black, 60"
+BK-R50B-62,Black,62,"Black, 62"
+BK-R50B-44,Black,44,"Black, 44"
+BK-R50B-48,Black,48,"Black, 48"
+BK-R50B-52,Black,52,"Black, 52"
+BK-M82S-38,Silver,38,"Silver, 38"
+BK-M82S-42,Silver,42,"Silver, 42"
+BK-M82S-44,Silver,44,"Silver, 44"
+BK-M82S-48,Silver,48,"Silver, 48"
+BK-M82B-38,Black,38,"Black, 38"
+BK-M82B-42,Black,42,"Black, 42"
+BK-M82B-44,Black,44,"Black, 44"
+BK-M82B-48,Black,48,"Black, 48"
+BK-M68S-38,Silver,38,"Silver, 38"
+BK-M68S-42,Silver,42,"Silver, 42"
+BK-M68S-46,Silver,46,"Silver, 46"
+BK-M68B-38,Black,38,"Black, 38"
+BK-M68B-42,Black,42,"Black, 42"
+BK-M68B-46,Black,46,"Black, 46"
+BK-M47B-38,Black,38,"Black, 38"
+BK-M47B-40,Black,40,"Black, 40"
+BK-M47B-44,Black,44,"Black, 44"
+BK-M47B-48,Black,48,"Black, 48"
+BK-R89R-44,Red,44,"Red, 44"
+BK-R89R-48,Red,48,"Red, 48"
+BK-R89R-52,Red,52,"Red, 52"
+BK-R89R-58,Red,58,"Red, 58"
+BK-R89B-44,Black,44,"Black, 44"
+BK-R89B-48,Black,48,"Black, 48"
+BK-R89B-52,Black,52,"Black, 52"
+BK-R89B-58,Black,58,"Black, 58"
+BK-R64Y-38,Yellow,38,"Yellow, 38"
+BK-R64Y-40,Yellow,40,"Yellow, 40"
+BK-R64Y-42,Yellow,42,"Yellow, 42"
+BK-R64Y-44,Yellow,44,"Yellow, 44"
+BK-R64Y-48,Yellow,48,"Yellow, 48"
+FK-1639,NULL,NULL,NULL
+FK-5136,NULL,NULL,NULL
+FK-9939,NULL,NULL,NULL
+HS-0296,NULL,NULL,NULL
+HS-2451,NULL,NULL,NULL
+HS-3479,NULL,NULL,NULL
+HB-M243,NULL,NULL,NULL
+HB-M763,NULL,NULL,NULL
+HB-M918,NULL,NULL,NULL
+HB-R504,NULL,NULL,NULL
+HB-R720,NULL,NULL,NULL
+HB-R956,NULL,NULL,NULL
+FR-M63B-38,Black,38,"Black, 38"
+FW-M423,Black,NULL,NULL
+FW-M762,Black,NULL,NULL
+FW-M928,Black,NULL,NULL
+FW-R623,Black,NULL,NULL
+FW-R762,Black,NULL,NULL
+FW-R820,Black,NULL,NULL
+FW-T905,Black,NULL,NULL
+FR-R72Y-38,Yellow,38,"Yellow, 38"
+RW-M423,Black,NULL,NULL
+RW-M762,Black,NULL,NULL
+RW-M928,Black,NULL,NULL
+RW-R623,Black,NULL,NULL
+RW-R762,Black,NULL,NULL
+RW-R820,Black,NULL,NULL
+RW-T905,Black,NULL,NULL
+FR-M63B-40,Black,40,"Black, 40"
+FR-M63B-44,Black,44,"Black, 44"
+FR-M63B-48,Black,48,"Black, 48"
+FR-R72Y-40,Yellow,40,"Yellow, 40"
+FR-R72Y-42,Yellow,42,"Yellow, 42"
+FR-R72Y-44,Yellow,44,"Yellow, 44"
+FR-R72Y-48,Yellow,48,"Yellow, 48"
+FR-R92B-62,Black,62,"Black, 62"
+FR-R92B-44,Black,44,"Black, 44"
+FR-R92B-48,Black,48,"Black, 48"
+FR-R92B-52,Black,52,"Black, 52"
+SH-M897-S,Black,S,"Black, S"
+PA-T100,Grey,NULL,NULL
+LO-C100,NULL,NULL,NULL
+PU-0452,NULL,NULL,NULL
+PU-M044,NULL,NULL,NULL
+LT-T990,NULL,NULL,NULL
+LT-H902,NULL,NULL,NULL
+LT-H903,NULL,NULL,NULL
+SH-M897-M,Black,M,"Black, M"
+SH-M897-L,Black,L,"Black, L"
+SH-M897-X,Black,XL,"Black, XL"
+TG-W091-S,Black,S,"Black, S"
+TG-W091-M,Black,M,"Black, M"
+TG-W091-L,Black,L,"Black, L"
+SB-M891-S,Multi,S,"Multi, S"
+SB-M891-M,Multi,M,"Multi, M"
+SB-M891-L,Multi,L,"Multi, L"
+GL-H102-S,Black,S,"Black, S"
+GL-H102-M,Black,M,"Black, M"
+GL-H102-L,Black,L,"Black, L"
+GL-F110-S,Black,S,"Black, S"
+GL-F110-M,Black,M,"Black, M"
+GL-F110-L,Black,L,"Black, L"
+VE-C304-S,Blue,S,"Blue, S"
+VE-C304-M,Blue,M,"Blue, M"
+VE-C304-L,Blue,L,"Blue, L"
+SH-W890-S,Black,S,"Black, S"
+SH-W890-M,Black,M,"Black, M"
+SH-W890-L,Black,L,"Black, L"
+WB-H098,NULL,NULL,NULL
+BC-M005,NULL,NULL,NULL
+BC-R205,NULL,NULL,NULL
+PK-7098,NULL,NULL,NULL
+SO-R809-M,White,M,"White, M"
+SO-R809-L,White,L,"White, L"
+RA-H123,NULL,NULL,NULL
+CL-9009,NULL,NULL,NULL
+FE-6654,NULL,NULL,NULL
+ST-1401,NULL,NULL,NULL
+HY-1023-70,Silver,70,"Silver, 70"
+SJ-0194-S,Yellow,S,"Yellow, S"
+SJ-0194-M,Yellow,M,"Yellow, M"
+SJ-0194-L,Yellow,L,"Yellow, L"
+SJ-0194-X,Yellow,XL,"Yellow, XL"
+FR-T98Y-60,Yellow,60,"Yellow, 60"
+FR-T67Y-62,Yellow,62,"Yellow, 62"
+FR-T98Y-46,Yellow,46,"Yellow, 46"
+FR-T98Y-50,Yellow,50,"Yellow, 50"
+FR-T98Y-54,Yellow,54,"Yellow, 54"
+FR-T98U-46,Blue,46,"Blue, 46"
+FR-T98U-50,Blue,50,"Blue, 50"
+FR-T98U-54,Blue,54,"Blue, 54"
+FR-T98U-60,Blue,60,"Blue, 60"
+RD-2308,Silver,NULL,NULL
+FR-T67U-50,Blue,50,"Blue, 50"
+FR-T67U-54,Blue,54,"Blue, 54"
+FR-T67U-58,Blue,58,"Blue, 58"
+FR-T67U-62,Blue,62,"Blue, 62"
+FR-T67Y-44,Yellow,44,"Yellow, 44"
+FR-T67Y-50,Yellow,50,"Yellow, 50"
+FR-T67Y-54,Yellow,54,"Yellow, 54"
+FR-T67Y-58,Yellow,58,"Yellow, 58"
+FR-T67U-44,Blue,44,"Blue, 44"
+FR-M63S-40,Silver,40,"Silver, 40"
+FR-M63S-42,Silver,42,"Silver, 42"
+FR-M63S-46,Silver,46,"Silver, 46"
+RB-9231,Silver,NULL,NULL
+SE-M236,NULL,NULL,NULL
+SE-M798,NULL,NULL,NULL
+SE-M940,NULL,NULL,NULL
+SE-R581,NULL,NULL,NULL
+SE-R908,NULL,NULL,NULL
+SE-R995,NULL,NULL,NULL
+SE-T312,NULL,NULL,NULL
+SE-T762,NULL,NULL,NULL
+SE-T924,NULL,NULL,NULL
+FR-M21S-42,Silver,42,"Silver, 42"
+FR-M21S-44,Silver,44,"Silver, 44"
+FR-M21S-48,Silver,48,"Silver, 48"
+FR-M21S-52,Silver,52,"Silver, 52"
+TT-M928,NULL,NULL,NULL
+TT-R982,NULL,NULL,NULL
+TT-T092,NULL,NULL,NULL
+FR-M21B-42,Black,42,"Black, 42"
+FR-M21B-44,Black,44,"Black, 44"
+FR-M21B-48,Black,48,"Black, 48"
+FR-M21B-52,Black,52,"Black, 52"
+TI-M267,NULL,NULL,NULL
+TI-M602,NULL,NULL,NULL
+TI-M823,NULL,NULL,NULL
+TI-R092,NULL,NULL,NULL
+TI-R628,NULL,NULL,NULL
+TI-R982,NULL,NULL,NULL
+TI-T723,NULL,NULL,NULL
+PD-M282,Silver/Black,NULL,NULL
+PD-M340,Silver/Black,NULL,NULL
+PD-M562,Silver/Black,NULL,NULL
+PD-R347,Silver/Black,NULL,NULL
+PD-R563,Silver/Black,NULL,NULL
+PD-R853,Silver/Black,NULL,NULL
+PD-T852,Silver/Black,NULL,NULL
+FR-M63S-38,Silver,38,"Silver, 38"
+FR-M21B-40,Black,40,"Black, 40"
+FR-M21S-40,Silver,40,"Silver, 40"
+FD-2342,Silver,NULL,NULL
+HB-T721,NULL,NULL,NULL
+HB-T928,NULL,NULL,NULL
+FB-9873,Silver,NULL,NULL
+CS-4759,Black,NULL,NULL
+CS-6583,Black,NULL,NULL
+CS-9183,Black,NULL,NULL
+CH-0234,Silver,NULL,NULL
+BK-T44U-60,Blue,60,"Blue, 60"
+BK-T79Y-46,Yellow,46,"Yellow, 46"
+BK-T79Y-50,Yellow,50,"Yellow, 50"
+BK-T79Y-54,Yellow,54,"Yellow, 54"
+BK-T79Y-60,Yellow,60,"Yellow, 60"
+BK-T18U-54,Blue,54,"Blue, 54"
+BK-T18U-58,Blue,58,"Blue, 58"
+BK-T18U-62,Blue,62,"Blue, 62"
+BK-T18Y-44,Yellow,44,"Yellow, 44"
+BK-T18Y-50,Yellow,50,"Yellow, 50"
+BK-T18Y-54,Yellow,54,"Yellow, 54"
+BK-T18Y-58,Yellow,58,"Yellow, 58"
+BK-T18Y-62,Yellow,62,"Yellow, 62"
+BK-T79U-46,Blue,46,"Blue, 46"
+BK-T79U-50,Blue,50,"Blue, 50"
+BK-T79U-54,Blue,54,"Blue, 54"
+BK-T79U-60,Blue,60,"Blue, 60"
+BK-T44U-46,Blue,46,"Blue, 46"
+BK-T44U-50,Blue,50,"Blue, 50"
+BK-T44U-54,Blue,54,"Blue, 54"
+BK-R79Y-40,Yellow,40,"Yellow, 40"
+BK-R79Y-42,Yellow,42,"Yellow, 42"
+BK-R79Y-44,Yellow,44,"Yellow, 44"
+BK-R79Y-48,Yellow,48,"Yellow, 48"
+BK-R19B-58,Black,58,"Black, 58"
+BK-T18U-44,Blue,44,"Blue, 44"
+BK-T18U-50,Blue,50,"Blue, 50"
+BK-M38S-38,Silver,38,"Silver, 38"
+BK-M38S-40,Silver,40,"Silver, 40"
+BK-M38S-42,Silver,42,"Silver, 42"
+BK-M38S-46,Silver,46,"Silver, 46"
+BK-M18S-40,Silver,40,"Silver, 40"
+BK-M18S-42,Silver,42,"Silver, 42"
+BK-M18S-44,Silver,44,"Silver, 44"
+BK-M18S-48,Silver,48,"Silver, 48"
+BK-M18S-52,Silver,52,"Silver, 52"
+BK-M18B-40,Black,40,"Black, 40"
+BK-M18B-42,Black,42,"Black, 42"
+BK-M18B-44,Black,44,"Black, 44"
+BK-M18B-48,Black,48,"Black, 48"
+BK-M18B-52,Black,52,"Black, 52"
+BB-7421,NULL,NULL,NULL
+BB-8107,NULL,NULL,NULL
+BB-9108,NULL,NULL,NULL
+BK-R19B-44,Black,44,"Black, 44"
+BK-R19B-48,Black,48,"Black, 48"
+BK-R19B-52,Black,52,"Black, 52"

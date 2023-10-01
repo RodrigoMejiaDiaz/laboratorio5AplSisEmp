@@ -1,0 +1,296 @@
+SellStartYear,SellStartMonth,SellStartDay,SellStartWeekday,YearsSold,ProductID,Name
+2002,June,1,Saturday,21,680,"HL Road Frame - Black, 58"
+2002,June,1,Saturday,21,706,"HL Road Frame - Red, 58"
+2005,July,1,Friday,18,707,"Sport-100 Helmet, Red"
+2005,July,1,Friday,18,708,"Sport-100 Helmet, Black"
+2005,July,1,Friday,18,709,"Mountain Bike Socks, M"
+2005,July,1,Friday,18,710,"Mountain Bike Socks, L"
+2005,July,1,Friday,18,711,"Sport-100 Helmet, Blue"
+2005,July,1,Friday,18,712,AWC Logo Cap
+2005,July,1,Friday,18,713,"Long-Sleeve Logo Jersey, S"
+2005,July,1,Friday,18,714,"Long-Sleeve Logo Jersey, M"
+2005,July,1,Friday,18,715,"Long-Sleeve Logo Jersey, L"
+2005,July,1,Friday,18,716,"Long-Sleeve Logo Jersey, XL"
+2005,July,1,Friday,18,717,"HL Road Frame - Red, 62"
+2005,July,1,Friday,18,718,"HL Road Frame - Red, 44"
+2005,July,1,Friday,18,719,"HL Road Frame - Red, 48"
+2005,July,1,Friday,18,720,"HL Road Frame - Red, 52"
+2005,July,1,Friday,18,721,"HL Road Frame - Red, 56"
+2005,July,1,Friday,18,722,"LL Road Frame - Black, 58"
+2005,July,1,Friday,18,723,"LL Road Frame - Black, 60"
+2005,July,1,Friday,18,724,"LL Road Frame - Black, 62"
+2005,July,1,Friday,18,725,"LL Road Frame - Red, 44"
+2005,July,1,Friday,18,726,"LL Road Frame - Red, 48"
+2005,July,1,Friday,18,727,"LL Road Frame - Red, 52"
+2005,July,1,Friday,18,728,"LL Road Frame - Red, 58"
+2005,July,1,Friday,18,729,"LL Road Frame - Red, 60"
+2005,July,1,Friday,18,730,"LL Road Frame - Red, 62"
+2005,July,1,Friday,18,731,"ML Road Frame - Red, 44"
+2005,July,1,Friday,18,732,"ML Road Frame - Red, 48"
+2005,July,1,Friday,18,733,"ML Road Frame - Red, 52"
+2005,July,1,Friday,18,734,"ML Road Frame - Red, 58"
+2005,July,1,Friday,18,735,"ML Road Frame - Red, 60"
+2005,July,1,Friday,18,736,"LL Road Frame - Black, 44"
+2005,July,1,Friday,18,737,"LL Road Frame - Black, 48"
+2005,July,1,Friday,18,738,"LL Road Frame - Black, 52"
+2005,July,1,Friday,18,739,"HL Mountain Frame - Silver, 42"
+2005,July,1,Friday,18,740,"HL Mountain Frame - Silver, 44"
+2005,July,1,Friday,18,741,"HL Mountain Frame - Silver, 48"
+2005,July,1,Friday,18,742,"HL Mountain Frame - Silver, 46"
+2005,July,1,Friday,18,743,"HL Mountain Frame - Black, 42"
+2005,July,1,Friday,18,744,"HL Mountain Frame - Black, 44"
+2005,July,1,Friday,18,745,"HL Mountain Frame - Black, 48"
+2005,July,1,Friday,18,746,"HL Mountain Frame - Black, 46"
+2005,July,1,Friday,18,747,"HL Mountain Frame - Black, 38"
+2005,July,1,Friday,18,748,"HL Mountain Frame - Silver, 38"
+2005,July,1,Friday,18,749,"Road-150 Red, 62"
+2005,July,1,Friday,18,750,"Road-150 Red, 44"
+2005,July,1,Friday,18,751,"Road-150 Red, 48"
+2005,July,1,Friday,18,752,"Road-150 Red, 52"
+2005,July,1,Friday,18,753,"Road-150 Red, 56"
+2005,July,1,Friday,18,754,"Road-450 Red, 58"
+2005,July,1,Friday,18,755,"Road-450 Red, 60"
+2005,July,1,Friday,18,756,"Road-450 Red, 44"
+2005,July,1,Friday,18,757,"Road-450 Red, 48"
+2005,July,1,Friday,18,758,"Road-450 Red, 52"
+2005,July,1,Friday,18,759,"Road-650 Red, 58"
+2005,July,1,Friday,18,760,"Road-650 Red, 60"
+2005,July,1,Friday,18,761,"Road-650 Red, 62"
+2005,July,1,Friday,18,762,"Road-650 Red, 44"
+2005,July,1,Friday,18,763,"Road-650 Red, 48"
+2005,July,1,Friday,18,764,"Road-650 Red, 52"
+2005,July,1,Friday,18,765,"Road-650 Black, 58"
+2005,July,1,Friday,18,766,"Road-650 Black, 60"
+2005,July,1,Friday,18,767,"Road-650 Black, 62"
+2005,July,1,Friday,18,768,"Road-650 Black, 44"
+2005,July,1,Friday,18,769,"Road-650 Black, 48"
+2005,July,1,Friday,18,770,"Road-650 Black, 52"
+2005,July,1,Friday,18,771,"Mountain-100 Silver, 38"
+2005,July,1,Friday,18,772,"Mountain-100 Silver, 42"
+2005,July,1,Friday,18,773,"Mountain-100 Silver, 44"
+2005,July,1,Friday,18,774,"Mountain-100 Silver, 48"
+2005,July,1,Friday,18,775,"Mountain-100 Black, 38"
+2005,July,1,Friday,18,776,"Mountain-100 Black, 42"
+2005,July,1,Friday,18,777,"Mountain-100 Black, 44"
+2005,July,1,Friday,18,778,"Mountain-100 Black, 48"
+2006,July,1,Saturday,17,779,"Mountain-200 Silver, 38"
+2006,July,1,Saturday,17,780,"Mountain-200 Silver, 42"
+2006,July,1,Saturday,17,781,"Mountain-200 Silver, 46"
+2006,July,1,Saturday,17,782,"Mountain-200 Black, 38"
+2006,July,1,Saturday,17,783,"Mountain-200 Black, 42"
+2006,July,1,Saturday,17,784,"Mountain-200 Black, 46"
+2006,July,1,Saturday,17,785,"Mountain-300 Black, 38"
+2006,July,1,Saturday,17,786,"Mountain-300 Black, 40"
+2006,July,1,Saturday,17,787,"Mountain-300 Black, 44"
+2006,July,1,Saturday,17,788,"Mountain-300 Black, 48"
+2006,July,1,Saturday,17,789,"Road-250 Red, 44"
+2006,July,1,Saturday,17,790,"Road-250 Red, 48"
+2006,July,1,Saturday,17,791,"Road-250 Red, 52"
+2006,July,1,Saturday,17,792,"Road-250 Red, 58"
+2006,July,1,Saturday,17,793,"Road-250 Black, 44"
+2006,July,1,Saturday,17,794,"Road-250 Black, 48"
+2006,July,1,Saturday,17,795,"Road-250 Black, 52"
+2006,July,1,Saturday,17,796,"Road-250 Black, 58"
+2006,July,1,Saturday,17,797,"Road-550-W Yellow, 38"
+2006,July,1,Saturday,17,798,"Road-550-W Yellow, 40"
+2006,July,1,Saturday,17,799,"Road-550-W Yellow, 42"
+2006,July,1,Saturday,17,800,"Road-550-W Yellow, 44"
+2006,July,1,Saturday,17,801,"Road-550-W Yellow, 48"
+2006,July,1,Saturday,17,802,LL Fork
+2006,July,1,Saturday,17,803,ML Fork
+2006,July,1,Saturday,17,804,HL Fork
+2006,July,1,Saturday,17,805,LL Headset
+2006,July,1,Saturday,17,806,ML Headset
+2006,July,1,Saturday,17,807,HL Headset
+2006,July,1,Saturday,17,808,LL Mountain Handlebars
+2006,July,1,Saturday,17,809,ML Mountain Handlebars
+2006,July,1,Saturday,17,810,HL Mountain Handlebars
+2006,July,1,Saturday,17,811,LL Road Handlebars
+2006,July,1,Saturday,17,812,ML Road Handlebars
+2006,July,1,Saturday,17,813,HL Road Handlebars
+2006,July,1,Saturday,17,814,"ML Mountain Frame - Black, 38"
+2006,July,1,Saturday,17,815,LL Mountain Front Wheel
+2006,July,1,Saturday,17,816,ML Mountain Front Wheel
+2006,July,1,Saturday,17,817,HL Mountain Front Wheel
+2006,July,1,Saturday,17,818,LL Road Front Wheel
+2006,July,1,Saturday,17,819,ML Road Front Wheel
+2006,July,1,Saturday,17,820,HL Road Front Wheel
+2006,July,1,Saturday,17,821,Touring Front Wheel
+2006,July,1,Saturday,17,822,"ML Road Frame-W - Yellow, 38"
+2006,July,1,Saturday,17,823,LL Mountain Rear Wheel
+2006,July,1,Saturday,17,824,ML Mountain Rear Wheel
+2006,July,1,Saturday,17,825,HL Mountain Rear Wheel
+2006,July,1,Saturday,17,826,LL Road Rear Wheel
+2006,July,1,Saturday,17,827,ML Road Rear Wheel
+2006,July,1,Saturday,17,828,HL Road Rear Wheel
+2006,July,1,Saturday,17,829,Touring Rear Wheel
+2006,July,1,Saturday,17,830,"ML Mountain Frame - Black, 40"
+2006,July,1,Saturday,17,831,"ML Mountain Frame - Black, 44"
+2006,July,1,Saturday,17,832,"ML Mountain Frame - Black, 48"
+2006,July,1,Saturday,17,833,"ML Road Frame-W - Yellow, 40"
+2006,July,1,Saturday,17,834,"ML Road Frame-W - Yellow, 42"
+2006,July,1,Saturday,17,835,"ML Road Frame-W - Yellow, 44"
+2006,July,1,Saturday,17,836,"ML Road Frame-W - Yellow, 48"
+2006,July,1,Saturday,17,837,"HL Road Frame - Black, 62"
+2006,July,1,Saturday,17,838,"HL Road Frame - Black, 44"
+2006,July,1,Saturday,17,839,"HL Road Frame - Black, 48"
+2006,July,1,Saturday,17,840,"HL Road Frame - Black, 52"
+2006,July,1,Saturday,17,841,"Men's Sports Shorts, S"
+2006,July,1,Saturday,17,842,"Touring-Panniers, Large"
+2006,July,1,Saturday,17,843,Cable Lock
+2006,July,1,Saturday,17,844,Minipump
+2006,July,1,Saturday,17,845,Mountain Pump
+2006,July,1,Saturday,17,846,Taillights - Battery-Powered
+2006,July,1,Saturday,17,847,Headlights - Dual-Beam
+2006,July,1,Saturday,17,848,Headlights - Weatherproof
+2006,July,1,Saturday,17,849,"Men's Sports Shorts, M"
+2006,July,1,Saturday,17,850,"Men's Sports Shorts, L"
+2006,July,1,Saturday,17,851,"Men's Sports Shorts, XL"
+2006,July,1,Saturday,17,852,"Women's Tights, S"
+2006,July,1,Saturday,17,853,"Women's Tights, M"
+2006,July,1,Saturday,17,854,"Women's Tights, L"
+2006,July,1,Saturday,17,855,"Men's Bib-Shorts, S"
+2006,July,1,Saturday,17,856,"Men's Bib-Shorts, M"
+2006,July,1,Saturday,17,857,"Men's Bib-Shorts, L"
+2006,July,1,Saturday,17,858,"Half-Finger Gloves, S"
+2006,July,1,Saturday,17,859,"Half-Finger Gloves, M"
+2006,July,1,Saturday,17,860,"Half-Finger Gloves, L"
+2006,July,1,Saturday,17,861,"Full-Finger Gloves, S"
+2006,July,1,Saturday,17,862,"Full-Finger Gloves, M"
+2006,July,1,Saturday,17,863,"Full-Finger Gloves, L"
+2007,July,1,Sunday,16,864,"Classic Vest, S"
+2007,July,1,Sunday,16,865,"Classic Vest, M"
+2007,July,1,Sunday,16,866,"Classic Vest, L"
+2007,July,1,Sunday,16,867,"Women's Mountain Shorts, S"
+2007,July,1,Sunday,16,868,"Women's Mountain Shorts, M"
+2007,July,1,Sunday,16,869,"Women's Mountain Shorts, L"
+2007,July,1,Sunday,16,870,Water Bottle - 30 oz.
+2007,July,1,Sunday,16,871,Mountain Bottle Cage
+2007,July,1,Sunday,16,872,Road Bottle Cage
+2007,July,1,Sunday,16,873,Patch Kit/8 Patches
+2007,July,1,Sunday,16,874,"Racing Socks, M"
+2007,July,1,Sunday,16,875,"Racing Socks, L"
+2007,July,1,Sunday,16,876,Hitch Rack - 4-Bike
+2007,July,1,Sunday,16,877,Bike Wash - Dissolver
+2007,July,1,Sunday,16,878,Fender Set - Mountain
+2007,July,1,Sunday,16,879,All-Purpose Bike Stand
+2007,July,1,Sunday,16,880,Hydration Pack - 70 oz.
+2007,July,1,Sunday,16,881,"Short-Sleeve Classic Jersey, S"
+2007,July,1,Sunday,16,882,"Short-Sleeve Classic Jersey, M"
+2007,July,1,Sunday,16,883,"Short-Sleeve Classic Jersey, L"
+2007,July,1,Sunday,16,884,"Short-Sleeve Classic Jersey, XL"
+2007,July,1,Sunday,16,885,"HL Touring Frame - Yellow, 60"
+2007,July,1,Sunday,16,886,"LL Touring Frame - Yellow, 62"
+2007,July,1,Sunday,16,887,"HL Touring Frame - Yellow, 46"
+2007,July,1,Sunday,16,888,"HL Touring Frame - Yellow, 50"
+2007,July,1,Sunday,16,889,"HL Touring Frame - Yellow, 54"
+2007,July,1,Sunday,16,890,"HL Touring Frame - Blue, 46"
+2007,July,1,Sunday,16,891,"HL Touring Frame - Blue, 50"
+2007,July,1,Sunday,16,892,"HL Touring Frame - Blue, 54"
+2007,July,1,Sunday,16,893,"HL Touring Frame - Blue, 60"
+2007,July,1,Sunday,16,894,Rear Derailleur
+2007,July,1,Sunday,16,895,"LL Touring Frame - Blue, 50"
+2007,July,1,Sunday,16,896,"LL Touring Frame - Blue, 54"
+2007,July,1,Sunday,16,897,"LL Touring Frame - Blue, 58"
+2007,July,1,Sunday,16,898,"LL Touring Frame - Blue, 62"
+2007,July,1,Sunday,16,899,"LL Touring Frame - Yellow, 44"
+2007,July,1,Sunday,16,900,"LL Touring Frame - Yellow, 50"
+2007,July,1,Sunday,16,901,"LL Touring Frame - Yellow, 54"
+2007,July,1,Sunday,16,902,"LL Touring Frame - Yellow, 58"
+2007,July,1,Sunday,16,903,"LL Touring Frame - Blue, 44"
+2007,July,1,Sunday,16,904,"ML Mountain Frame-W - Silver, 40"
+2007,July,1,Sunday,16,905,"ML Mountain Frame-W - Silver, 42"
+2007,July,1,Sunday,16,906,"ML Mountain Frame-W - Silver, 46"
+2007,July,1,Sunday,16,907,Rear Brakes
+2007,July,1,Sunday,16,908,LL Mountain Seat/Saddle
+2007,July,1,Sunday,16,909,ML Mountain Seat/Saddle
+2007,July,1,Sunday,16,910,HL Mountain Seat/Saddle
+2007,July,1,Sunday,16,911,LL Road Seat/Saddle
+2007,July,1,Sunday,16,912,ML Road Seat/Saddle
+2007,July,1,Sunday,16,913,HL Road Seat/Saddle
+2007,July,1,Sunday,16,914,LL Touring Seat/Saddle
+2007,July,1,Sunday,16,915,ML Touring Seat/Saddle
+2007,July,1,Sunday,16,916,HL Touring Seat/Saddle
+2007,July,1,Sunday,16,917,"LL Mountain Frame - Silver, 42"
+2007,July,1,Sunday,16,918,"LL Mountain Frame - Silver, 44"
+2007,July,1,Sunday,16,919,"LL Mountain Frame - Silver, 48"
+2007,July,1,Sunday,16,920,"LL Mountain Frame - Silver, 52"
+2007,July,1,Sunday,16,921,Mountain Tire Tube
+2007,July,1,Sunday,16,922,Road Tire Tube
+2007,July,1,Sunday,16,923,Touring Tire Tube
+2007,July,1,Sunday,16,924,"LL Mountain Frame - Black, 42"
+2007,July,1,Sunday,16,925,"LL Mountain Frame - Black, 44"
+2007,July,1,Sunday,16,926,"LL Mountain Frame - Black, 48"
+2007,July,1,Sunday,16,927,"LL Mountain Frame - Black, 52"
+2007,July,1,Sunday,16,928,LL Mountain Tire
+2007,July,1,Sunday,16,929,ML Mountain Tire
+2007,July,1,Sunday,16,930,HL Mountain Tire
+2007,July,1,Sunday,16,931,LL Road Tire
+2007,July,1,Sunday,16,932,ML Road Tire
+2007,July,1,Sunday,16,933,HL Road Tire
+2007,July,1,Sunday,16,934,Touring Tire
+2007,July,1,Sunday,16,935,LL Mountain Pedal
+2007,July,1,Sunday,16,936,ML Mountain Pedal
+2007,July,1,Sunday,16,937,HL Mountain Pedal
+2007,July,1,Sunday,16,938,LL Road Pedal
+2007,July,1,Sunday,16,939,ML Road Pedal
+2007,July,1,Sunday,16,940,HL Road Pedal
+2007,July,1,Sunday,16,941,Touring Pedal
+2007,July,1,Sunday,16,942,"ML Mountain Frame-W - Silver, 38"
+2007,July,1,Sunday,16,943,"LL Mountain Frame - Black, 40"
+2007,July,1,Sunday,16,944,"LL Mountain Frame - Silver, 40"
+2007,July,1,Sunday,16,945,Front Derailleur
+2007,July,1,Sunday,16,946,LL Touring Handlebars
+2007,July,1,Sunday,16,947,HL Touring Handlebars
+2007,July,1,Sunday,16,948,Front Brakes
+2007,July,1,Sunday,16,949,LL Crankset
+2007,July,1,Sunday,16,950,ML Crankset
+2007,July,1,Sunday,16,951,HL Crankset
+2007,July,1,Sunday,16,952,Chain
+2007,July,1,Sunday,16,953,"Touring-2000 Blue, 60"
+2007,July,1,Sunday,16,954,"Touring-1000 Yellow, 46"
+2007,July,1,Sunday,16,955,"Touring-1000 Yellow, 50"
+2007,July,1,Sunday,16,956,"Touring-1000 Yellow, 54"
+2007,July,1,Sunday,16,957,"Touring-1000 Yellow, 60"
+2007,July,1,Sunday,16,958,"Touring-3000 Blue, 54"
+2007,July,1,Sunday,16,959,"Touring-3000 Blue, 58"
+2007,July,1,Sunday,16,960,"Touring-3000 Blue, 62"
+2007,July,1,Sunday,16,961,"Touring-3000 Yellow, 44"
+2007,July,1,Sunday,16,962,"Touring-3000 Yellow, 50"
+2007,July,1,Sunday,16,963,"Touring-3000 Yellow, 54"
+2007,July,1,Sunday,16,964,"Touring-3000 Yellow, 58"
+2007,July,1,Sunday,16,965,"Touring-3000 Yellow, 62"
+2007,July,1,Sunday,16,966,"Touring-1000 Blue, 46"
+2007,July,1,Sunday,16,967,"Touring-1000 Blue, 50"
+2007,July,1,Sunday,16,968,"Touring-1000 Blue, 54"
+2007,July,1,Sunday,16,969,"Touring-1000 Blue, 60"
+2007,July,1,Sunday,16,970,"Touring-2000 Blue, 46"
+2007,July,1,Sunday,16,971,"Touring-2000 Blue, 50"
+2007,July,1,Sunday,16,972,"Touring-2000 Blue, 54"
+2007,July,1,Sunday,16,973,"Road-350-W Yellow, 40"
+2007,July,1,Sunday,16,974,"Road-350-W Yellow, 42"
+2007,July,1,Sunday,16,975,"Road-350-W Yellow, 44"
+2007,July,1,Sunday,16,976,"Road-350-W Yellow, 48"
+2007,July,1,Sunday,16,977,"Road-750 Black, 58"
+2007,July,1,Sunday,16,978,"Touring-3000 Blue, 44"
+2007,July,1,Sunday,16,979,"Touring-3000 Blue, 50"
+2007,July,1,Sunday,16,980,"Mountain-400-W Silver, 38"
+2007,July,1,Sunday,16,981,"Mountain-400-W Silver, 40"
+2007,July,1,Sunday,16,982,"Mountain-400-W Silver, 42"
+2007,July,1,Sunday,16,983,"Mountain-400-W Silver, 46"
+2007,July,1,Sunday,16,984,"Mountain-500 Silver, 40"
+2007,July,1,Sunday,16,985,"Mountain-500 Silver, 42"
+2007,July,1,Sunday,16,986,"Mountain-500 Silver, 44"
+2007,July,1,Sunday,16,987,"Mountain-500 Silver, 48"
+2007,July,1,Sunday,16,988,"Mountain-500 Silver, 52"
+2007,July,1,Sunday,16,989,"Mountain-500 Black, 40"
+2007,July,1,Sunday,16,990,"Mountain-500 Black, 42"
+2007,July,1,Sunday,16,991,"Mountain-500 Black, 44"
+2007,July,1,Sunday,16,992,"Mountain-500 Black, 48"
+2007,July,1,Sunday,16,993,"Mountain-500 Black, 52"
+2007,July,1,Sunday,16,994,LL Bottom Bracket
+2007,July,1,Sunday,16,995,ML Bottom Bracket
+2007,July,1,Sunday,16,996,HL Bottom Bracket
+2007,July,1,Sunday,16,997,"Road-750 Black, 44"
+2007,July,1,Sunday,16,998,"Road-750 Black, 48"
+2007,July,1,Sunday,16,999,"Road-750 Black, 52"

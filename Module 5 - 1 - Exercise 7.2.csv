@@ -1,0 +1,9 @@
+CallID,CallTime,SalesPerson,CustomerID,PhoneNumber,Notes
+1,2015-01-01 12:30:00.000,adventure-works\pamela0,1,245-555-0173,Returning call re: enquiry about delivery
+2,2023-10-01 22:13:58.623,adventure-works\david8,2,170-555-0127,NULL
+3,2023-10-01 22:14:36.973,adventure-works\jillian0,3,279-555-0130,NULL
+4,2023-10-01 22:12:56.457,adventure-works\jillian0,4,710-555-0173,NULL
+5,2023-10-01 22:14:56.457,adventure-works\shu0,5,828-555-0186,Called to arrange deliver of order 10987
+6,2023-10-01 22:15:19.497,adventure-works\shu0,529,669-555-0149,Sales promotion call
+7,2023-10-01 22:15:19.497,adventure-works\shu0,29784,669-555-0149,Sales promotion call
+8,2023-10-01 22:15:39.900,adventure-works\josé1,10,150-555-0127,NULL
